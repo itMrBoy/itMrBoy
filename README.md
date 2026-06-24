@@ -1,16 +1,25 @@
-## Hi there 👋
+   ## Danniel 👋
+   
+  - Focused on **AI Programming, Vibe Coding**
 
-<!--
-**itMrBoy/itMrBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ## Featured Projects
 
-Here are some ideas to get you started:
+  **Core Contributor:** 
+  [codelf](https://github.com/Disdjj/codelf) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **TokenRollAI:**
+  [llmdoc](https://github.com/TokenRollAI/llmdoc) · [acplugin](https://github.com/TokenRollAI/acplugin) · [fast-mvp](https://github.com/TokenRollAI/fast-mvp)
+
+  **Personal:**
+  [resumePolice](https://github.com/itMrBoy/resumePolice)
+  AI-powered resume review, rewriting, and interview-question generation. 
+
+  [glab_skills](https://github.com/itMrBoy/glab_skills)
+  GitLab-oriented skills for Codex / AI coding agents, covering MR review, pipeline checks, diff summaries, and llmdoc-aware team workflows.
+  
+  [SourceRealm](https://github.com/itMrBoy/SourceRealm)
+  A local-first pixel-style source-reading game that turns any code repository into an explorable world of AI-generated chapters, levels, and coding tasks.
+
+  [BabelTower](https://github.com/itMrBoy/BabelTower)
+  A translation and localization workspace for managing multilingual text, dictionaries, import/export flows, conflict resolution, snapshots, and collaboration workflows.
+  
