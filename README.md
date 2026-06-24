@@ -7,10 +7,14 @@
   **Core Contributor:** 
   [codelf](https://github.com/Disdjj/codelf) 
 
+  **Contributor and recommender: **
+  [paseo](https://github.com/getpaseo/paseo/pull/1509)
+
   **TokenRollAI:**
   [llmdoc](https://github.com/TokenRollAI/llmdoc) · [acplugin](https://github.com/TokenRollAI/acplugin) · [fast-mvp](https://github.com/TokenRollAI/fast-mvp)
 
   **Personal:**
+  
   [resumePolice](https://github.com/itMrBoy/resumePolice)
   AI-powered resume review, rewriting, and interview-question generation. 
 
