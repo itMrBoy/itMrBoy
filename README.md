@@ -19,7 +19,7 @@
   AI-powered resume review, rewriting, and interview-question generation. 
   
   [chrome-devtools-capturer-repo](https://github.com/itMrBoy/chrome-devtools-capturer-repo)
-  Claude Code browser debugging plugin that captures Console, Network, and Performance Trace data through MCP Server + Chrome Extension, giving AI agents real runtime evidence for debugging.
+  Browser debugging plugin that captures Console, Network, and Performance Trace data through MCP Server + Chrome Extension, giving AI agents real runtime evidence for debugging.
   
   [glab_skills](https://github.com/itMrBoy/glab_skills)
   GitLab-oriented skills for Codex / AI coding agents, covering MR review, pipeline checks, diff summaries, and llmdoc-aware team workflows.
