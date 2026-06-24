@@ -4,10 +4,10 @@
 
   ## Featured Projects
 
-  ** Core Contributor: ** 
+  **Core Contributor:**
   [codelf](https://github.com/Disdjj/codelf) 
 
-  **Contributor and recommender: **
+  **Contributor and recommender:**
   [paseo](https://github.com/getpaseo/paseo/pull/1509)
 
   **TokenRollAI:**
