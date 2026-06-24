@@ -1,6 +1,6 @@
    ## Danniel 👋
    
-  - Focused on **AI Programming, Vibe Coding**
+   Focused on **AI Programming, Vibe Coding**
 
   ## Featured Projects
 
