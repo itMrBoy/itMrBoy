@@ -30,5 +30,5 @@
   [BabelTower](https://github.com/itMrBoy/BabelTower)
   A translation and localization workspace for managing multilingual text, dictionaries, import/export flows, conflict resolution, snapshots, and collaboration workflows.
 
-  [vibe2blog]([vibe2blog](https://github.com/itMrBoy/vibe2blog))
+  [vibe2blog](https://github.com/itMrBoy/vibe2blog)
   What is recorded are the real-life aspects of the "Vibe Coding" process—bringing ideas to life, weighing options, the pitfalls encountered, and the moments of breakthrough—rather than marketing copy.
